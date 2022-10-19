@@ -3,7 +3,7 @@
 
 
 ### Run
-```javascript
+```bash
 node fourteen_lines_poem.js
 ```
 
